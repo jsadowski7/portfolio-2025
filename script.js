@@ -11,6 +11,6 @@ document.querySelectorAll('nav a').forEach(anchor => {
     });
 });
 
-window.addEventListener('load', () => {
-    alert('Welcome to my Porfolio!');
-});
+// window.addEventListener('load', () => {
+//     alert('Welcome to my Porfolio!');
+// });
